@@ -10,7 +10,7 @@ function comparison () {
 
   // check if userInput is less than 0
   if (userInput < 0) {
-    document.getElementById('answer').innerHTML =
+    document.getElementById('negative-or-positive').innerHTML =
     'Negative'
   } else {
     document.getElementById('negative-or-positive').innerHTML =
