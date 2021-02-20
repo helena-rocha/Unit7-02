@@ -15,6 +15,5 @@ function comparison () {
   } else {
     document.getElementById('negative-or-positive').innerHTML =
     'Positive'
-}
-
+  }
 }
